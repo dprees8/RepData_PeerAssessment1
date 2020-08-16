@@ -3,6 +3,7 @@ title: "Reproducible Research - Project 1"
 author: "Dan Rees"
 date: "8/15/2020"
 output: html_document
+keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
